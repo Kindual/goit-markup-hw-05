@@ -1,0 +1,22 @@
+:root {
+    /* bg colors */
+    --main-bg-color: #FFFFFF;
+    --hero-bg-color: #2F303A;
+    --team-info-bg: #F5F4FA;
+    --bg-socials: rgba(255, 255, 255, 0.1);
+    
+    /* font colors */
+    --accent-blue: #2196F3;
+    --accent-black: #000000;
+    --main-font-black: #212121;
+    --main-font-color: #757575;
+    --link-footer-color: rgba(255, 255, 255, 0.6);
+
+    --white: #FFFFFF;
+    --btn-shadow: rgba(0, 0, 0, 0.15);
+    --icon-gray: #AFB1B8;
+}
+
+.test {
+    background-color: #76d14b;
+}
